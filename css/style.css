@@ -1,0 +1,21 @@
+body {
+    background: #B2B6B0;
+}
+
+#sticky-footer {
+    flex-shrink: none;
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.project {
+    padding: 2rem 10rem;
+}
